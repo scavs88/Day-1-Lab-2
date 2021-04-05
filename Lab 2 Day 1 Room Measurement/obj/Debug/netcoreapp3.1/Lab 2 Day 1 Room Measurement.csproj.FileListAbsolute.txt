@@ -1,0 +1,13 @@
+C:\Users\spcav\source\repos\Lab 2 Day 1 Room Measurement\Lab 2 Day 1 Room Measurement\bin\Debug\netcoreapp3.1\Lab 2 Day 1 Room Measurement.exe
+C:\Users\spcav\source\repos\Lab 2 Day 1 Room Measurement\Lab 2 Day 1 Room Measurement\bin\Debug\netcoreapp3.1\Lab 2 Day 1 Room Measurement.deps.json
+C:\Users\spcav\source\repos\Lab 2 Day 1 Room Measurement\Lab 2 Day 1 Room Measurement\bin\Debug\netcoreapp3.1\Lab 2 Day 1 Room Measurement.runtimeconfig.json
+C:\Users\spcav\source\repos\Lab 2 Day 1 Room Measurement\Lab 2 Day 1 Room Measurement\bin\Debug\netcoreapp3.1\Lab 2 Day 1 Room Measurement.runtimeconfig.dev.json
+C:\Users\spcav\source\repos\Lab 2 Day 1 Room Measurement\Lab 2 Day 1 Room Measurement\bin\Debug\netcoreapp3.1\Lab 2 Day 1 Room Measurement.dll
+C:\Users\spcav\source\repos\Lab 2 Day 1 Room Measurement\Lab 2 Day 1 Room Measurement\bin\Debug\netcoreapp3.1\Lab 2 Day 1 Room Measurement.pdb
+C:\Users\spcav\source\repos\Lab 2 Day 1 Room Measurement\Lab 2 Day 1 Room Measurement\obj\Debug\netcoreapp3.1\Lab 2 Day 1 Room Measurement.csprojAssemblyReference.cache
+C:\Users\spcav\source\repos\Lab 2 Day 1 Room Measurement\Lab 2 Day 1 Room Measurement\obj\Debug\netcoreapp3.1\Lab 2 Day 1 Room Measurement.AssemblyInfoInputs.cache
+C:\Users\spcav\source\repos\Lab 2 Day 1 Room Measurement\Lab 2 Day 1 Room Measurement\obj\Debug\netcoreapp3.1\Lab 2 Day 1 Room Measurement.AssemblyInfo.cs
+C:\Users\spcav\source\repos\Lab 2 Day 1 Room Measurement\Lab 2 Day 1 Room Measurement\obj\Debug\netcoreapp3.1\Lab 2 Day 1 Room Measurement.csproj.CoreCompileInputs.cache
+C:\Users\spcav\source\repos\Lab 2 Day 1 Room Measurement\Lab 2 Day 1 Room Measurement\obj\Debug\netcoreapp3.1\Lab 2 Day 1 Room Measurement.dll
+C:\Users\spcav\source\repos\Lab 2 Day 1 Room Measurement\Lab 2 Day 1 Room Measurement\obj\Debug\netcoreapp3.1\Lab 2 Day 1 Room Measurement.pdb
+C:\Users\spcav\source\repos\Lab 2 Day 1 Room Measurement\Lab 2 Day 1 Room Measurement\obj\Debug\netcoreapp3.1\Lab 2 Day 1 Room Measurement.genruntimeconfig.cache
