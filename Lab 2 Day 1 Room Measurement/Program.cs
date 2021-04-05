@@ -16,8 +16,11 @@ namespace Lab_2_Day_1_Room_Measurement
                 double width = double.Parse(Console.ReadLine());
                 Console.WriteLine("Enter Length");
                 double length = double.Parse(Console.ReadLine());
+                Console.WriteLine("Enter Height");
+                double height = double.Parse(Console.ReadLine());
                 double area = length * width;
                 double perimeter = (length * 2) + (width * 2);
+                double volume = length * width * height;
 
                 //calculate supplies needed
                 double paint = perimeter / 5;
@@ -28,10 +31,12 @@ namespace Lab_2_Day_1_Room_Measurement
                 //display dimensions
                 Console.WriteLine($"Width: {width}");
                 Console.WriteLine($"Length: {length}");
+                Console.WriteLine($"Height: {height}");
                 Console.WriteLine($"Area: {area}");
                 Console.WriteLine($"Perimiter: {perimeter}");
                 Console.WriteLine($"Paint: {paint}");
                 Console.WriteLine($"Carpet: {carpet}");
+                Console.WriteLine($"Volume: {volume}");
                 Console.WriteLine("Would you like to calculate another room y/n?");
                 choice = Console.ReadLine();
                 
